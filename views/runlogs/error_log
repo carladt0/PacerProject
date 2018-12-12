@@ -1,0 +1,58 @@
+[04-Dec-2018 14:19:30 America/Vancouver] PHP Warning:  strtoupper() expects exactly 1 parameter, 2 given in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 38
+[04-Dec-2018 14:20:07 America/Vancouver] PHP Warning:  strtoupper() expects exactly 1 parameter, 2 given in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 38
+[04-Dec-2018 14:50:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[04-Dec-2018 14:52:16 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[04-Dec-2018 14:52:24 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[04-Dec-2018 14:58:51 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[04-Dec-2018 14:59:17 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[04-Dec-2018 14:59:21 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[05-Dec-2018 09:39:15 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[05-Dec-2018 09:43:48 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[05-Dec-2018 09:44:01 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[05-Dec-2018 09:45:09 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[05-Dec-2018 09:45:13 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9
+[05-Dec-2018 09:49:49 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::delete() in /home/pacercarlabardwe/public_html/views/runlogs/delete.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/delete.php on line 5
+[05-Dec-2018 09:51:22 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::delete() in /home/pacercarlabardwe/public_html/views/runlogs/delete.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/delete.php on line 5
+[05-Dec-2018 09:56:05 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::edit() in /home/pacercarlabardwe/public_html/views/runlogs/edit.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/runlogs/edit.php on line 9

@@ -1,0 +1,696 @@
+[26-Nov-2018 12:52:28 America/Vancouver] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/pacercarlabardwe/public_html/core/db.php on line 40
+[26-Nov-2018 12:52:41 America/Vancouver] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/pacercarlabardwe/public_html/core/db.php on line 40
+[26-Nov-2018 12:52:41 America/Vancouver] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user ''@'localhost' (using password: YES) in /home/pacercarlabardwe/public_html/core/db.php on line 40
+[26-Nov-2018 13:13:45 America/Vancouver] PHP Warning:  require_once(../elements/signup-login-forms.php): failed to open stream: No such file or directory in /home/pacercarlabardwe/public_html/views/feed.php on line 16
+[26-Nov-2018 13:13:45 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '../elements/signup-login-forms.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/pacercarlabardwe/public_html/views/feed.php on line 16
+[27-Nov-2018 01:59:26 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pacercarlabardwe/public_html/views/feed.php on line 70
+[27-Nov-2018 02:28:45 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pacercarlabardwe/public_html/views/index.php on line 55
+[27-Nov-2018 03:02:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pacercarlabardwe/public_html/views/index.php on line 55
+[27-Nov-2018 03:04:07 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pacercarlabardwe/public_html/views/index.php on line 55
+[27-Nov-2018 20:52:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pacercarlabardwe/public_html/views/index.php on line 55
+[27-Nov-2018 20:53:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pacercarlabardwe/public_html/views/index.php on line 55
+[27-Nov-2018 13:11:25 America/Vancouver] PHP Parse error:  syntax error, unexpected end of file in /home/pacercarlabardwe/public_html/elements/nav.php on line 48
+[28-Nov-2018 13:32:21 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:34:11 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:34:14 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:34:55 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:34:59 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:46:58 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:47:04 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:48:14 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:48:17 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:49:02 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:50:06 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:54:13 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:54:18 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 13:58:41 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 14:09:27 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 112
+[28-Nov-2018 14:10:29 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:112
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 112
+[28-Nov-2018 14:17:27 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 125
+[28-Nov-2018 14:17:29 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:125
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 125
+[28-Nov-2018 14:17:52 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 14:27:42 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 14:33:40 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:111
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 111
+[28-Nov-2018 14:45:23 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 121
+[29-Nov-2018 10:00:04 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Project' not found in /home/pacercarlabardwe/public_html/views/index.php:118
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 118
+[29-Nov-2018 10:02:14 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::get_all() in /home/pacercarlabardwe/public_html/views/index.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 119
+[29-Nov-2018 10:03:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method Runlog::get_all() in /home/pacercarlabardwe/public_html/views/index.php:119
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 119
+[30-Nov-2018 00:27:02 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pacercarlabardwe/public_html/views/index.php on line 237
+[29-Nov-2018 16:45:56 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Users' not found in /home/pacercarlabardwe/public_html/views/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 209
+[29-Nov-2018 16:47:00 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Users' not found in /home/pacercarlabardwe/public_html/views/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 209
+[29-Nov-2018 16:47:52 America/Vancouver] PHP Fatal error:  Uncaught Error: Class 'Users' not found in /home/pacercarlabardwe/public_html/views/index.php:209
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 209
+[29-Nov-2018 16:48:15 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:28:31 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:31:25 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:32:02 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:40:32 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:40:44 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:41:44 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:42:11 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:42:15 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:42:52 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:45:38 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:46:07 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:46:19 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:47:53 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:48:04 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:48:26 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:48:50 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:53:11 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:53:11 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:53:19 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:54:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:54:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:55:03 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:55:39 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:55:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:57:06 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 09:57:06 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 10:01:16 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 10:01:16 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 10:01:22 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 10:01:39 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 10:01:47 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 10:02:51 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 10:16:47 America/Vancouver] PHP Fatal error:  Uncaught Error: Function name must be a string in /home/pacercarlabardwe/public_html/views/profile.php:30
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/profile.php on line 30
+[30-Nov-2018 11:41:40 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 11:41:53 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 11:48:02 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 11:48:12 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 11:48:51 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 11:49:24 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 11:52:37 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 11:52:48 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 11:52:59 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[30-Nov-2018 13:01:31 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 08:39:32 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 17:11:15 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pacercarlabardwe/public_html/views/editprofile.php on line 117
+[04-Dec-2018 09:25:01 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::edit() in /home/pacercarlabardwe/public_html/views/editprofile.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/editprofile.php on line 10
+[04-Dec-2018 09:25:46 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::edit() in /home/pacercarlabardwe/public_html/views/editprofile.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/editprofile.php on line 10
+[04-Dec-2018 09:26:33 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::edit() in /home/pacercarlabardwe/public_html/views/editprofile.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/editprofile.php on line 10
+[04-Dec-2018 09:26:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::edit() in /home/pacercarlabardwe/public_html/views/editprofile.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/editprofile.php on line 10
+[04-Dec-2018 09:27:10 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::edit() in /home/pacercarlabardwe/public_html/views/editprofile.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/editprofile.php on line 10
+[04-Dec-2018 09:27:23 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::edit() in /home/pacercarlabardwe/public_html/views/editprofile.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/editprofile.php on line 10
+[04-Dec-2018 09:27:53 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::edit() in /home/pacercarlabardwe/public_html/views/editprofile.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/editprofile.php on line 10
+[04-Dec-2018 09:30:25 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pacercarlabardwe/public_html/elements/html_head.php:1) in /home/pacercarlabardwe/public_html/views/editprofile.php on line 11
+[04-Dec-2018 09:31:02 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pacercarlabardwe/public_html/elements/html_head.php:1) in /home/pacercarlabardwe/public_html/views/editprofile.php on line 11
+[04-Dec-2018 09:33:45 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pacercarlabardwe/public_html/elements/html_head.php:1) in /home/pacercarlabardwe/public_html/views/editprofile.php on line 11
+[04-Dec-2018 09:34:59 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pacercarlabardwe/public_html/elements/html_head.php:1) in /home/pacercarlabardwe/public_html/views/editprofile.php on line 11
+[04-Dec-2018 09:35:12 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pacercarlabardwe/public_html/elements/nav.php:1) in /home/pacercarlabardwe/public_html/views/editprofile.php on line 10
+[04-Dec-2018 09:35:26 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pacercarlabardwe/public_html/elements/html_head.php:1) in /home/pacercarlabardwe/public_html/views/editprofile.php on line 11
+[04-Dec-2018 09:35:44 America/Vancouver] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pacercarlabardwe/public_html/elements/html_head.php:1) in /home/pacercarlabardwe/public_html/views/editprofile.php on line 11
+[04-Dec-2018 09:37:54 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 09:38:06 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 09:44:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 09:48:04 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 09:48:39 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 10:10:28 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 10:12:11 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 10:12:44 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:210
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 210
+[04-Dec-2018 10:44:47 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 10:57:36 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 10:59:37 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:00:09 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:00:24 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:00:31 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:00:49 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:02:17 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:02:29 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:03:43 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:04:36 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:04:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:05:40 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:06:53 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:07:09 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:07:23 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:07:36 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:08:54 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:09:28 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:09:50 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:10:02 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:10:10 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:10:36 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:11:25 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:11:36 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:12:18 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:12:33 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:12:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:12:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:13:10 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:13:32 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:13:50 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:14:00 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:14:23 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:14:38 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:14:47 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:14:56 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:15:55 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:16:05 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:16:49 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:30:00 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:30:07 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:30:19 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:36:34 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 11:36:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 12:20:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 12:21:47 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 12:21:52 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 12:22:17 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 12:22:24 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 12:22:31 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 12:23:05 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 12:28:45 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:217
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 217
+[04-Dec-2018 20:35:57 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/pacercarlabardwe/public_html/core/init.php on line 41
+[04-Dec-2018 20:52:52 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pacercarlabardwe/public_html/views/index.php on line 254
+[04-Dec-2018 12:57:40 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 231
+[04-Dec-2018 12:59:30 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 231
+[04-Dec-2018 12:59:32 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:231
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 231
+[04-Dec-2018 20:59:45 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pacercarlabardwe/public_html/views/index.php on line 261
+[04-Dec-2018 21:00:36 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pacercarlabardwe/public_html/views/index.php on line 263
+[04-Dec-2018 21:01:30 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting end of file in /home/pacercarlabardwe/public_html/views/index.php on line 262
+[04-Dec-2018 21:02:06 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pacercarlabardwe/public_html/views/index.php on line 264
+[04-Dec-2018 13:05:04 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 234
+[04-Dec-2018 13:05:25 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 234
+[04-Dec-2018 13:06:02 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 234
+[04-Dec-2018 13:06:28 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 234
+[04-Dec-2018 13:06:48 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 234
+[04-Dec-2018 13:09:38 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 234
+[04-Dec-2018 13:09:54 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:234
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 234
+[04-Dec-2018 13:11:51 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:239
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 239
+[04-Dec-2018 13:12:16 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:239
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 239
+[04-Dec-2018 13:12:24 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:239
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 239
+[04-Dec-2018 13:12:37 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:239
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 239
+[04-Dec-2018 13:14:40 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:239
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 239
+[04-Dec-2018 13:14:46 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:239
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 239
+[04-Dec-2018 13:28:54 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:264
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 264
+[04-Dec-2018 13:33:02 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:186
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 186
+[04-Dec-2018 13:34:57 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 178
+[04-Dec-2018 13:35:21 America/Vancouver] PHP Fatal error:  Uncaught Error: Call to undefined method User::get_all() in /home/pacercarlabardwe/public_html/views/index.php:178
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/index.php on line 178
+[05-Dec-2018 10:35:04 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 53
+[05-Dec-2018 10:37:16 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 53
+[05-Dec-2018 10:38:15 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 53
+[05-Dec-2018 10:38:28 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 53
+[05-Dec-2018 10:38:35 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 53
+[05-Dec-2018 10:39:12 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 53
+[05-Dec-2018 10:39:38 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 53
+[05-Dec-2018 10:40:56 America/Vancouver] PHP Warning:  Missing argument 1 for Runlog::get_by_id(), called in /home/pacercarlabardwe/public_html/views/profile.php on line 50 and defined in /home/pacercarlabardwe/public_html/models/runlog.php on line 68
+[05-Dec-2018 10:40:56 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 53
+[05-Dec-2018 10:46:14 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 66
+[05-Dec-2018 10:47:25 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 42
+[05-Dec-2018 10:47:25 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 73
+[05-Dec-2018 10:47:36 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 66
+[05-Dec-2018 10:50:00 America/Vancouver] PHP Warning:  Invalid argument supplied for foreach() in /home/pacercarlabardwe/public_html/views/profile.php on line 66
+[05-Dec-2018 13:42:51 America/Vancouver] PHP Warning:  require_once(/assets/files/html_email.php): failed to open stream: No such file or directory in /home/pacercarlabardwe/public_html/views/support.php on line 47
+[05-Dec-2018 13:42:51 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '/assets/files/html_email.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/pacercarlabardwe/public_html/views/support.php on line 47
+[05-Dec-2018 13:48:10 America/Vancouver] PHP Warning:  require_once(/assets/files/html_email.php): failed to open stream: No such file or directory in /home/pacercarlabardwe/public_html/views/support.php on line 5
+[05-Dec-2018 13:48:10 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '/assets/files/html_email.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/pacercarlabardwe/public_html/views/support.php on line 5
+[05-Dec-2018 13:49:39 America/Vancouver] PHP Warning:  require_once(/views/assets/files/html_email.php): failed to open stream: No such file or directory in /home/pacercarlabardwe/public_html/views/support.php on line 47
+[05-Dec-2018 13:49:39 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '/views/assets/files/html_email.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/pacercarlabardwe/public_html/views/support.php on line 47
+[07-Dec-2018 09:01:18 America/Vancouver] PHP Warning:  require_once(/views/assets/files/html_email.php): failed to open stream: No such file or directory in /home/pacercarlabardwe/public_html/views/support.php on line 48
+[07-Dec-2018 09:01:18 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '/views/assets/files/html_email.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/pacercarlabardwe/public_html/views/support.php on line 48
+[07-Dec-2018 09:02:36 America/Vancouver] PHP Warning:  require_once(/assets/files/html_email.php): failed to open stream: No such file or directory in /home/pacercarlabardwe/public_html/views/support.php on line 48
+[07-Dec-2018 09:02:36 America/Vancouver] PHP Fatal error:  require_once(): Failed opening required '/assets/files/html_email.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/pacercarlabardwe/public_html/views/support.php on line 48
+[11-Dec-2018 03:56:25 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pacercarlabardwe/public_html/views/profile.php on line 162

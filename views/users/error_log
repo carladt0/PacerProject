@@ -1,0 +1,30 @@
+[21-Nov-2018 22:54:57 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/pacercarlabardwe/public_html/core/db.php on line 40
+[21-Nov-2018 22:56:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/pacercarlabardwe/public_html/views/users/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/users/login.php on line 6
+[21-Nov-2018 22:57:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/pacercarlabardwe/public_html/views/users/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/users/login.php on line 6
+[21-Nov-2018 22:59:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/pacercarlabardwe/public_html/views/users/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/users/login.php on line 6
+[21-Nov-2018 22:59:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/pacercarlabardwe/public_html/views/users/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/users/login.php on line 6
+[21-Nov-2018 23:02:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/pacercarlabardwe/public_html/views/users/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/users/login.php on line 6
+[23-Nov-2018 20:05:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/pacercarlabardwe/public_html/views/users/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/users/login.php on line 6
+[23-Nov-2018 21:20:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method User::login() in /home/pacercarlabardwe/public_html/views/users/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/pacercarlabardwe/public_html/views/users/login.php on line 6
+[23-Nov-2018 13:28:43 America/Vancouver] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/pacercarlabardwe/public_html/models/user.php on line 78

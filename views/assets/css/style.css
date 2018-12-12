@@ -1,0 +1,2143 @@
+/* =======================
+SITE FUNDAMENTALS
+#CB2F2E is red, #491429 is burgundy, #B62A2D is duller red, font family 'Bebas'
+========================= */
+body {
+    font-family: Arial,Helvetica,sans-serif;
+}
+p {
+    margin-bottom: 0px!important;
+}
+.no-pad {
+    padding: 0;
+}
+.no-pad-left {
+    padding-left: 0;
+}
+.no-pad-right {
+    padding-right: 0;
+}
+.fa-user{
+    color: #CB2F2E;
+}
+
+/* =======================
+NAVIGATION
+========================= */
+.logo {
+    width: 150px;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.top-text {
+    margin-top: 0px;
+    float: right;
+}
+ul.navbar-nav li {
+    position:relative;
+}
+.active .nav-link {
+    font-weight: 600;
+}
+.navbar-nav a {
+    color: #CB2F2E!important;
+    font-size: 17px;
+    font-weight: bold;
+    margin-left: 3px;
+    margin-top: 65px;
+}
+.navbar-nav {
+    padding-bottom: 0px!important;
+    margin-top: 28px;
+}
+.social-network-runners {
+    position:absolute;
+    font-family: 'Bebas';
+    font-size: 20px;
+    top:43px;
+    right:20px;
+    margin:auto;
+    color: #491429;
+    letter-spacing:0.8px;
+}
+.navbar-nav a {
+    margin-top: 10px!important;
+}
+
+/* =======================
+Home Page
+========================= */
+#runners-home {
+    position: relative;
+    text-align: center;
+    width: 100%;
+    margin-left: 0px;
+    height: 300px;
+    background-image: url("/assets/images/runnerspattern-home.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 15px;
+}
+.container-fluid{
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.centered-header {
+    font-family: 'Bebas';
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing:0.8px;
+}
+.centered-box {
+    background-color: #CB2F2E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.8;
+    height: 90px;
+    width: 500px;
+}
+.sign-up {
+    font-family: 'Bebas';
+    font-size: 20px;
+    margin-top: 30px;
+    color: #491429;
+    letter-spacing:0.6px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+.sign-up a {
+    color: #491429!important;
+}
+.join-our-community a {
+    color: #CB2F2E!important;
+}
+.join-our-community {
+    font-size: 55px;
+    color: #CB2F2E;
+    letter-spacing:0.8px;
+    text-align: center;
+    font-weight: bold;
+}
+.login-form{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+h2 {
+    color:  #CB2F2E;
+    letter-spacing:0.6px;
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 12px;
+}
+.form-red {
+    color:  #CB2F2E;
+    letter-spacing:0.6px;
+    font-size: 15px;
+    font-weight: bold;
+    height: 35px;
+}
+.form-control {
+    border-radius: 0px!important;
+}
+input::placeholder {
+  color: #CB2F2E!important;
+}
+.home-container {
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-pacer {
+    background-color: #CB2F2E;
+    color: white;
+    border-radius: 0px;
+    border-color: #CB2F2E;
+    letter-spacing:0.6px;
+    font-family: 'Bebas';
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 13px;
+    margin-top: 0px;
+}
+.row {
+    width: 100%;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#form-closer {
+    margin-bottom: 8px;
+}
+
+/* =======================
+SIGN-UP PAGE
+========================= */
+#runners-signup {
+    position: relative;
+    height: 340px;
+    background-image: url("/assets/images/runnerspattern-home.png");
+    background-size: cover;
+    margin-top: 2px;
+}
+.centered-box-signup {
+    background-color: #CB2F2E;
+    position: absolute;
+    top: 40%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+    opacity: 0.8;
+    height: 100px;
+    width: 440px;
+}
+.centered-header-signup {
+    font-family: 'Bebas';
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 62%;
+    transform: translate(-30%, -46%);
+    letter-spacing:0.8px;
+}
+.signup-container {
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    padding-left: 0px!important;
+    margin-bottom: 30px;
+}
+
+.why-pacer-header{
+    font-family: 'Bebas';
+    font-size: 18px;
+    color: #491429;
+    letter-spacing:0.8px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#why-pacer-signup{
+    padding-left: 40px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+#why-pacer-signup p {
+    font-size: 13px;
+    color: #CB2F2E;
+    font-weight: 600;
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
+.join-our-community-signup {
+    color: #CB2F2E;
+    font-size: 24px;
+    text-align: left;
+    font-family: 'Bebas';
+    font-weight: 300;
+    margin-top: 5px;
+}
+.lets-move {
+    font-weight: 600;
+    color: #CB2F2E;
+    font-size: 36px;
+    float: right;
+    margin-left: 120px;
+    margin-top: 60px;
+}
+.fa-user-support {
+    color: #CB2F2E;
+    font-size: 60px;
+    margin-top: 10px;
+    margin-right: none;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.fa-user-signup{
+    color: #CB2F2E;
+    font-size: 60px;
+    margin-top: 10px;
+    margin-right: none;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.fa-user-profile{
+    color: #CB2F2E;
+    font-size: 60px;
+    margin-top: 10px;
+    margin-right: none;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.fa-user-profile-edit{
+    color: #CB2F2E;
+    font-size: 45px;
+    margin-top: 22px;
+    margin-right: none;
+    margin-bottom: 10px;
+    text-align: right;
+}
+.col-md-10 {
+    margin-left: 0px;
+}
+.create-account-group{
+    padding-left: 20px;
+}
+.free {
+    margin-bottom: -8px;
+    margin-top: 18px;
+    font-family: 'Bebas';
+    font-size: 18px;
+    color: #491429;
+    letter-spacing:0.8px;
+    padding-top: 0px;
+}
+.user-heading {
+    padding-left: 60px!important;
+}
+.user-heading-edit {
+    padding-left: 25px!important;
+}
+.policy {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left:0px;
+    margin-right: 0px;
+}
+.policy p {
+    font-size: 10px;
+    color: #CB2F2E;
+    font-weight: bold;
+}
+.policy a {
+    color: #CB2F2E;
+    text-decoration: underline;
+}
+.col-md-2 {
+    padding-right: 0px;
+}
+.agree {
+    padding-right: 0px;
+    margin-right: 0px;
+    text-align: right;
+}
+.submit-signup {
+    padding-right: 0px!important;
+    text-align: right;
+}
+.col-md-7 {
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+}
+.col-md-5{
+    padding-right: 50px!important;
+}
+
+/* =======================
+YOUR FEED
+========================= */
+.yourfeed-runners {
+    height: 150px;
+    background-image: url("/assets/images/runnerspattern-yourfeed.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+.centered-box-feed {
+    background-color: #CB2F2E;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0.8;
+    height: 80px;
+    width: 600px;
+}
+.centered-header-feed {
+    font-family: 'Bebas';
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    letter-spacing:0.8px;
+}
+#add-run-container {
+    margin-top: 20px;
+    padding-left: 20px;
+}
+#add-run-panel {
+    background-color: #B62A2D;
+    padding-bottom: 50px;
+    margin-top: 20px;
+    text-align: center;
+}
+.profile-img {
+    width: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.btn-add-run {
+    background-color: #D65156;
+    color: white;
+    border-radius: 0px;
+    border-color: #D65156;
+    letter-spacing:0.6px;
+    font-family: 'Bebas';
+    padding-top: 4px;
+    padding-bottom: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 15px;
+    margin-top: 0px;
+}
+#km-tally {
+    margin-top: 70px;
+    padding-bottom: 0px;
+    text-align: center;
+    width:100%;
+}
+#km-tally h2 {
+    color: white;
+    font-size: 20px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+#km-tally p {
+    color: #D45155;
+    font-size: 15px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+#since-joining {
+    text-align: right;
+    max-width: 200px;
+    margin-right: 20px;
+    margin-left: auto;
+}
+#hours-since-joining h2{
+    max-width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-top: 50px;
+    font-size: 30px;
+    color:  #D65156;
+}
+#this-month{
+    max-width: 200px;
+    border-left: 4px solid white;
+    padding-left: 20px;
+    margin-right: auto;
+}
+.hours-running-large{
+    font-size: 50px;
+    color: white;
+}
+.insp-quote{
+    color: white;
+    font-size: 20px;
+    margin-top: 80px;
+    font-weight: bold;
+    font-family: 'Bebas';
+    letter-spacing: 2px;
+    text-align: right;
+    line-height: 200%;
+}
+.insp-large {
+    font-size: 65px;
+    line-height: 120%;
+}
+.insp-md-large {
+    font-size: 50px;
+    line-height: 120%;
+}
+.insp-md {
+    font-size: 40px;
+}
+.insp-sm {
+    font-size: 30px;
+}
+#feed-row {
+    width: 100%;
+    margin-left: 0px!important;
+    margin-right: 0px!important;
+    padding-left: 15px!important;
+    padding-right: 15px!important;
+}
+#runtime{
+    width: 71px;
+    margin-left: 8px;
+}
+.runtime-label{
+    font-size: 15px;
+    font-weight: bold;
+    margin-left: 3px;
+    margin-right: 3px;
+    color: white;
+    margin-top: 8px;
+}
+.see-near-you {
+    font-family: 'Bebas';
+    font-size: 20px;
+    color: #491429;
+    letter-spacing:0.8px;
+}
+.recent {
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 15px;
+}
+#user-posts-panel{
+    padding-left: 50px;
+}
+.right-inner-addon {
+    margin-top: 20px;
+}
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 9px 20px;
+    pointer-events: none;
+    border: none;
+    color: white;
+    background-color: #CB2F2E;
+}
+.click-profile{
+    font-family: 'Bebas';
+    font-size: 13px;
+    color: #491429;
+    letter-spacing:1px;
+    float: right;
+    margin-top: 4px;
+}
+.red-circle {
+    border-radius: 50%;
+    width: 250px;
+    height: 250px;
+    background-color: #CB2F2E;
+    margin-top: 55px;
+    margin-left: 15px;
+}
+.circle-image {
+    width: 250px;
+    height: 250px;
+    padding-right: 15px;
+    padding-top: 10px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.run-post-stats{
+    text-align: center;
+    margin-top: 15px;
+}
+.post-run-date-heart {
+    background-color: #CB2F2E;
+    color: white;
+    padding-left: 10px;
+    max-width: 160px;
+    padding-right: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
+.post-run-date-heart i {
+    padding-right: 15px;
+}
+.run-post-stats h5 {
+    font-size: 16px;
+    color: #CB2F2E;
+}
+.run-post-stats h3 {
+    font-size: 24px;
+    color: #CB2F2E;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.run-post-stats h4 {
+    font-size: 18px;
+    color: white;
+    font-family: 'Bebas';
+    letter-spacing: 1px;
+}
+#nice {
+    font-size: 130px;
+    font-family: 'Bebas';
+    letter-spacing: 5px;
+    float: right;
+    color: #491429;
+    margin-right: -10px;
+    margin-bottom: 0px;
+}
+/* =======================
+PROFILE
+========================= */
+.user-heading-profile {
+    padding-left: 40px;
+}
+.user-heading-edit {
+    padding-left: 40px;
+}
+a:hover{
+    color: white;
+}
+.btn-logout-profile {
+    float: right;
+    border-radius: 3px;
+    margin-right: 20px;
+    margin-top: 10px;
+    padding-left: 13px;
+    padding-right: 13px;
+    font-size: 16px;
+}
+#heading-logout{
+    padding-right: 0px!important;
+}
+.centered-box-profile-right {
+    background-color: #CB2F2E;
+    opacity: 0.8;
+    height: 100px;
+    width: 610px;
+    margin-left: -10px;
+    margin-top: 15px;
+}
+#thismonth{
+    color: white;
+    font-family: 'Bebas';
+    letter-spacing: 1px;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 20px;
+}
+#user-profile h4{
+    font-size: 15px;
+    letter-spacing: 0.8px;
+    float: left;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    color: #CB2F2E;
+    font-family: 'Bebas';
+}
+#user-profile{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+#user-profile-row {
+    margin-bottom: 20px;
+}
+.fa-map-marker-alt {
+    color: #CB2F2E;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.fa-calendar-alt {
+    color: #CB2F2E;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.profile-edit {
+    font-size: 10px;
+    color: #CB2F2E;
+    float: right;
+}
+.profile-picture-image {
+    height: 342px;
+    border: 30px solid #CB2F2E;
+    float: right;
+    overflow: hidden;
+    object-fit: cover;
+}
+#profile-image-col {
+    margin-top: -2px;
+    padding-right: 0px;
+}
+.centered-box-profile {
+    background-color: #CB2F2E;
+    position: absolute;
+    top: 43%;
+    left:60%;
+    transform: translate(-50%, -50%);
+    opacity: 0.8;
+    height: 100px;
+    width: 350px;
+}
+.centered-box-edit-profile {
+    background-color: #CB2F2E;
+    position: absolute;
+    top: 43%;
+    left:60%;
+    transform: translate(-50%, -50%);
+    opacity: 0.8;
+    height: 100px;
+    width: 350px;
+}
+.centered-header-profile {
+    font-family: 'Bebas';
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    top: 43%;
+    left: 58%;
+    transform: translate(-30%, -46%);
+    letter-spacing:0.8px;
+}
+#runners-profile {
+    position: relative;
+    height: 340px;
+    background-image: url("/assets/images/runnerspattern-home.png");
+    background-size: cover;
+    margin-top: 0px;
+    margin-right: 10px;
+}
+#runners-profile-edit {
+    position: relative;
+    height: 340px;
+    background-image: url("/assets/images/runnerspattern-home.png");
+    background-size: cover;
+    margin-top: 0px;
+    margin-right: 10px;
+}
+#nice-profile {
+    font-size: 130px;
+    font-family: 'Bebas';
+    letter-spacing: 5px;
+    float: right;
+    color: #491429;
+    margin-right: 10px;
+    padding-top: 30px;
+}
+#recent-runs {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#recent-runs h4 {
+    font-size: 20px;
+    font-family: 'Bebas';
+    letter-spacing: 0.6px;
+    color: #491429;
+}
+#recent-runs .fa-heart{
+    color: #CB2F2E;
+    padding-right: 3px;
+    padding-left: 3px;
+    font-size: 18px;
+}
+#run-stats-log{
+    padding-left: 2px;
+}
+.run-likes {
+    font-weight: bold;
+    color:  #CB2F2E;
+    font-size: 18px;
+}
+.run-post-date{
+    font-size: 18px;
+    font-family: 'Bebas';
+    letter-spacing: 0.6px;
+    color: #CB2F2E;
+    padding-right: 5px;
+}
+.run-profile-post-stats{
+    border-left: 5px solid #CB2F2E;
+    padding-left: 10px;
+}
+.edit-icon{
+    max-width: 15px;
+    margin-right: 5px;
+}
+.delete-icon{
+    max-width: 14px;
+}
+.nopadding {
+   padding: 0 !important;
+   margin: 0 !important;
+}
+.recent-runs-header{
+    margin-bottom: 10px;
+}
+.run-profile-post-stats{
+    font-size: 18px;
+    font-weight: bold;
+    color: #CB2F2E;
+    margin-left: 15px;
+}
+/* =======================
+Edit Profile
+========================= */
+.centered-header-editprofile {
+    font-family: 'Bebas';
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    top: 43%;
+    left: 65%;
+    transform: translate(-30%, -46%);
+    letter-spacing:0.8px;
+}
+#nice-edit {
+    font-size: 100px;
+    font-family: 'Bebas';
+    letter-spacing: 5px;
+    float: right;
+    color: #491429;
+    margin-top: 35px;
+}
+.edit-profile-image{
+    font-size: 15px;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 300px;
+    margin-left: 260px;
+}
+.edit-profile-image:hover{
+    cursor: pointer;
+}
+#why-pacer-edit{
+    padding-left: 40px;
+    margin-top: 20px;
+}
+#why-pacer-edit p {
+font-size: 13px;
+color: #CB2F2E;
+font-weight: 600;
+margin-bottom: 8px;
+}
+#profile-picture-edit-image {
+    height: 342px;
+    border: 50px solid #CB2F2E;
+    float: right;
+    overflow: hidden;
+    object-fit: cover;
+}
+.submit-edit {
+    margin-top: 10px;
+    margin-right: 0px;
+    padding-right: 0px;
+}
+.btn-edit {
+    float: right;
+}
+.edit-policy{
+    margin-top: 10px;
+    margin-left: 5px;
+}
+.join-our-community-edit {
+    color: #CB2F2E;
+    font-size: 24px;
+    text-align: left;
+    font-family: 'Bebas';
+    letter-spacing: 1px;
+    font-weight: 300;
+    margin-top: 5px;
+}
+/* =======================
+EDIT RUN POST FORM
+========================= */
+.edit-form-label {
+    color: #CB2F2E;
+    font-size: 16px;
+    font-weight: bold;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+.edit-card{
+    background-color: white;
+    border: 10px solid #CB2F2E;
+}
+#form-edit{
+    text-align: left;
+}
+#form-row{
+    margin-top: 10px;
+}
+#runtime-edit{
+    width: 75px;
+    margin-right: 10px;
+}
+#edit-run-distance{
+    width: 255px;
+}
+.btn-edit-run {
+    margin-right: 36px;
+    margin-bottom: 10px;
+}
+.card h4{
+    color: #CB2F2E;
+    font-family: 'Bebas';
+    font-size: 30px;
+    margin-left: 35px;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+.pencil-icon{
+    max-width: 13px;
+    margin-left: 6px;
+}
+.x-icon{
+    max-width: 12px;
+}
+/* =======================
+SUPPORT
+========================= */
+#newsletter-form{
+    padding-left: 15px;
+    padding-right: 25px;
+    padding-top: 10px;
+}
+#policy-container{
+    margin-top: 10px;
+}
+.submit-support{
+    float: right;
+    margin-top: 10px;
+}
+.newsletter{
+    margin-bottom: 10px!important;
+    font-size: 14px;
+    color: #CB2F2E!important;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+}
+.btn-support{
+    font-size: 16px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 5px;
+}
+.newsletter-md{
+    font-size: 16px;
+    color: #CB2F2E!important;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 0.8px;
+}
+.newsletter-icon{
+    max-width: 20px;
+    max-height:20px;
+    float: left;
+    margin-right: 8px;
+}
+#newsletter-contact{
+    margin-top: 20px;
+}
+#runners-support {
+    position: relative;
+    height: 300px;
+    background-image: url("/assets/images/runnerspattern-home.png");
+    background-size: cover;
+    margin-top: 2px;
+}
+#why-pacer-support{
+    padding-left: 40px;
+    font-family: 'Bebas'!important;
+    letter-spacing: 1px;
+    font-size: 20px;
+}
+.footer-heading {
+    font-family: 'Bebas'!important;
+    letter-spacing: 1px;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.why-pacer-footer{
+    margin-top: 0px;
+    padding-top: 0px;
+    font-family: 'Bebas';
+    font-size: 24px;
+    color: #491429;
+    letter-spacing:0.8px;
+    }
+.page-footer{
+    padding-top: 0px!important;
+}
+.footer-copyright-pacer{
+    color: #CB2F2E;
+    font-size: 13px;
+    margin-top: 0px;
+    background-color: #F5ECCE;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    margin-bottom: 0px!important;
+}
+.footer-copyright-pacer a{
+    color: #CB2F2E;
+}
+.footer-copyright-pacer a:hover{
+    color: #CB2F2E;
+    font-weight: bold;
+}
+.connect-header {
+    font-family: 'Bebas';
+    font-size: 70px;
+    color: white;
+    position: absolute;
+    top: 40%;
+    left: 52%;
+    transform: translate(-30%, -46%);
+    letter-spacing:0.8px;
+}
+.centered-box-support {
+    background-color: #CB2F2E;
+    position: absolute;
+    top: 40%;
+    left: 58%;
+    transform: translate(-50%, -50%);
+    opacity: 0.8;
+    height: 100px;
+    width: 440px;
+}
+.sign-up-heading{
+    font-size: 22px;
+}
+.signup-newsletter-group{
+    padding-left:20px;
+}
+.fa-user-support {
+    color: #CB2F2E;
+    font-size: 45px !important;
+    margin-top: 10px;
+    margin-right: none;
+    margin-bottom: 0px;
+    text-align: right;
+}
+/* =======================
+Error Messages
+========================= */
+#errorMsg {
+    color: red;
+    font-size: 12px;
+    text-align: center;
+    padding-top: 20px;
+}
+#successMsg {
+    color: green!important;
+    font-size: 12px!important;
+    text-align: center;
+}
+#why-pacer-footer p {
+    font-size: 13px;
+    color: #CB2F2E;
+    font-weight: 600;
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
+.join-our-community-footer {
+    color: #CB2F2E;
+    font-size: 24px;
+    text-align: left;
+    font-family: 'Bebas';
+    font-weight: 300;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+.newsletter a{
+    color: #CB2F2E;
+    font-size: 14px;
+}
+.newsletter a:hover{
+    color: #CB2F2E;
+}
+
+/* =======================
+RESPONSIVE
+========================= */
+@media (max-width: 1435px) {
+    #runtime{
+        width: 60px;
+    }
+    .centered-box-profile {
+        left:55%;
+    }
+    .centered-header-profile {
+        font-size: 65px;
+        top: 43%;
+        left: 45%;
+}
+
+@media (max-width: 1350px) {
+    .edit-profile-image{
+        margin-top: 300px;
+        margin-left: 50px;
+    }
+}
+
+@media (max-width: 1310px) {
+    .signup-newsletter-group{
+        padding-left:40px;
+    }
+}
+@media (max-width: 1304px) {
+    #runtime{
+        width: 300px;
+        margin-top: 5px;
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .insp-large {
+        font-size: 50px;
+    }
+    .lets-move{
+        text-align: center;
+    }
+    .fa-user-signup{
+        font-size: 50px;
+    }
+    .fa-user-profile{
+        font-size: 50px;
+    }
+    #thismonth{
+        font-size: 40px;
+        padding-top: 5px;
+    }
+}
+
+@media (max-width: 1280px) {
+    #km-tally h2 {
+        font-size: 20px;
+    }
+    .form-red {
+        font-size: 13px;
+    }
+    .social-network-runners {
+    font-size: 20px;
+    margin-right: 10px;
+    }
+    .lets-move {
+        margin-left: 43px;
+    }
+    .fa{
+        font-size: 50px;
+        padding-left: 10px;
+        text-align: right;
+        margin-top: 12px;
+    }
+    .create-account {
+        font-size: 22px;
+    }
+    .free {
+        font-size: 18px;
+    }
+    .user-heading {
+        padding-left: 35px!important;
+    }
+    .user-heading-edit {
+        padding-left: 35px;
+    }
+    .col-md-5 {
+        padding-right: 15px;
+    }
+}
+
+@media (max-width: 1262px) {
+    .sign-up-heading{
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 1250px) {
+    .runtime-label{
+        font-size: 10px;
+    }
+    #runners-support{
+        height: 380px;
+    }
+}
+
+@media (max-width: 1200px) {
+    .centered-box-feed {
+        height: 80px;
+        width: 450px;
+    }
+    #add-run-container {
+        padding-left: 0px;
+    }
+    #user-posts-panel {
+        padding-left: 10px;
+    }
+    .btn-logout {
+        float: none;
+        margin-left: -60px;
+        margin-top: 0px;
+        padding-left: 9px;
+        padding-right: 9px;
+        border: 1px solid #CB2F2E;
+    }
+    #profile-picture-edit-image {
+        height: 300px;
+        border: 20px solid #CB2F2E;
+    }
+    #runners-profile-edit{
+        height: 297px;
+    }
+    .edit-profile-image{
+        margin-top: 279px;
+        margin-left: 19px;
+    }
+}
+
+@media (max-width: 1120px) {
+    .centered-header-signup {
+        font-size: 60px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .centered-box-signup, .centered-box-support {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 100px;
+        width: 440px;
+    }
+    .connect-header {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .click-profile{
+        font-size: 11px;
+    }
+    .red-circle {
+        border-radius: 50%;
+        height: 200px;
+    }
+    .circle-image{
+        border-radius: 50%;
+        height: 200px;
+    }
+    .run-post-stats h3{
+        font-size: 16px;
+    }
+    #thismonth{
+        font-size: 30px;
+        padding-top: 15px;
+    }
+}
+@media (max-width: 1058px) {
+    .insp-md-large {
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 1038px) {
+    .insp-large {
+        font-size: 36px;
+    }
+    .insp-sm {
+        font-size: 20px;
+    }
+    .btn-add-run{
+        margin-top: 10px;
+    }
+    .recent {
+        font-size: 25px;
+    }
+    .see-near-you {
+        font-size: 18px;
+}
+
+@media (max-width: 1146px) {
+    #since-joining {
+        text-align: right;
+        max-width: 100px;
+        margin-right: 20px;
+        margin-left: auto;
+    }
+    #this-month{
+        max-width: 100px;
+    }
+}
+
+@media (max-width: 1038px) {
+    .insp-large {
+        font-size: 30px;
+    }
+    .insp-md-large {
+        font-size: 26px;
+    }
+    .insp-md {
+        font-size: 22px;
+    }
+    .btn-logout-profile {
+        float: right;
+        border-radius: 3px;
+        margin-right: 20px;
+        margin-top: 10px;
+        padding-left: 6px;
+        padding-right: 6px;
+        font-size: 14px;
+    }
+}
+@media (max-width: 1029px) {
+    #since-joining {
+        max-width: 80px;
+    }
+    #this-month{
+        max-width: 80px;
+    }
+    .social-network-runners {
+        display: none;
+    }
+    .footer-copyright-pacer{
+        margin-top: 10px;
+    }
+    .profile-picture-image {
+        height: 250px;
+    }
+    #runners-profile{
+        height: 248px;
+    }
+    #nice-profile{
+        font-size: 120px;
+        margin-top: 20px;
+    }
+    .run-profile-post-stats {
+    font-size: 16px;
+    margin-left: 10px;
+    }
+    .run-post-date {
+    font-size: 16px;
+    }
+    #recent-runs a{
+        font-size: 10px;
+    }
+    .run-likes {
+        font-size: 14px;
+    }
+
+}
+@media (max-width: 1020px) {
+    .fa-user-support{
+        font-size: 20px;
+        float: left;
+        display: inline-block;
+    }
+    .fa-user-signup{
+        font-size: 50px;
+        float: left;
+        display: inline-block;
+    }
+    .fa-user-profile{
+        font-size: 50px;
+        float: left;
+        display: inline-block;
+    }
+    .right-inner-addon i {
+        padding: 9px 5px;
+    }
+}
+
+@media (max-width: 949px) {
+    .create-account{
+        font-size:16px;
+    }
+    .btn-logout {
+        font-size: 13px;
+    }
+    .red-circle {
+        border-radius: 50%;
+        height: 180px;
+    }
+    .circle-image{
+        border-radius: 50%;
+        height: 180px;
+    }
+    .centered-box-profile {
+        left:55%;
+    }
+    .centered-header-profile {
+        font-size: 50px;
+        top: 43%;
+        left: 45%;
+    }
+}
+
+@media (max-width: 940px) {
+    .run-profile-post-stats {
+    font-size: 14px;
+    margin-left: 30px;
+    }
+    .run-post-date {
+    font-size: 14px;
+    }
+    #recent-runs a{
+        font-size: 10px;
+    }
+    .run-likes {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 915px) {
+
+    .fa-user-support{
+        font-size: 40px;
+    }
+    .fa-user-signup{
+        font-size: 40px;
+    }
+    .fa-user-profile{
+        font-size: 40px;
+    }
+    .form-red {
+        font-size: 12px;
+    }
+    .login-form{
+        padding-left: 10px;
+        padding-right:10px;
+    }
+    .free{
+        font-size: 14px;
+    }
+    .create-account{
+        font-size: 14px;
+    }
+    .post-run-date-heart i {
+        padding-right:2px;
+    }
+    .run-post-stats h4 {
+    font-size: 16px;
+    }
+    .post-run-date-heart {
+        padding-right: 3px;
+        padding-left: 3px;
+    }
+    .delete-btn{
+        margin-left: 2px;
+        margin-right: 2px;
+        padding-left: 0px!important;
+        padding-right: 0px!important;
+    }
+    .fa-user-profile-edit{
+        font-size: 35px;
+        margin-top: 18px;
+    }
+
+}
+@media (max-width: 870px) {
+    #since-joining {
+        max-width: 60px;
+    }
+    #since-joining h2 {
+        font-size: 90%;
+    }
+    #since-joining p {
+        font-size: 70%;
+    }
+    #this-month{
+        max-width: 60px;
+    }
+    #this-month h2 {
+        font-size: 90%;
+    }
+    #this-month p {
+        font-size: 70%;
+    }
+    .run-profile-post-stats {
+        font-size: 14px;
+        margin-left: 30px;
+    }
+    .run-post-date {
+        font-size: 14px;
+    }
+    #recent-runs a{
+        font-size: 10px;
+    }
+    .run-likes {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 863px) {
+    .btn-logout {
+        float: none;
+        margin-left: 180px;
+        margin-top: -120px;
+        padding-left: 9px;
+        padding-right: 9px;
+        border: 1px solid #CB2F2E;
+    }
+    .btn-logout-profile {
+        float: none;
+        margin-left: 30px;
+        margin-top: 0px;
+        padding-left: 6px;
+        padding-right: 6px;
+        font-size: 12px;
+    }
+    .btn-edit {
+        margin-top: 24px;
+    }
+}
+
+@media (max-width: 850px) {
+    .red-circle {
+        border-radius: 50%;
+        height: 160px;
+    }
+    .circle-image{
+        border-radius: 50%;
+        height: 160px;
+    }
+}
+
+@media (max-width: 795px) {
+    .lets-move{
+        font-size: 26px;
+        margin-top: 20px;
+    }
+    .join-our-community-signup{
+        text-align: center;
+        margin-top: 20px;
+        color: #491429;
+        letter-spacing: 1px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+}
+
+@media (max-width: 771px) {
+    #km-tally{
+        padding-top: 20px;
+    }
+    .newsletter{
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .policy{
+        text-align: center;
+    }
+    .btn-pacer{
+        margin-right: 10px;
+    }
+    .policy {
+        font-size: 8px;
+    }
+    .col-md-5{
+        padding-right: 15px!important;
+    }
+    .fa-user-support{
+        font-size: 30px;
+        float: right;
+        margin-top: 24px;
+        padding-right: 5px;
+        padding-left: 10px;
+    }
+    .fa-user-signup{
+        font-size: 30px;
+    }
+    .create-account {
+        font-size: 16px;
+    }
+    .free {
+        margin-bottom: -8px;
+        margin-top: 18px;
+        font-size: 14px;
+    }
+    .user-heading {
+        padding-left: 0px!important;
+    }
+    .user-heading-edit {
+        padding-left: 10px;
+    }
+    .lets-move {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    #since-joining {
+        max-width: 200px;
+    }
+    #this-month{
+        max-width: 200px;
+    }
+}
+
+@media (max-width: 767px) {
+    .fa-user-support {
+        margin-right: -17px;
+    }
+    .fa-user-signup {
+        padding-left:10px;
+        padding-top: 5px;
+        font-size: 40px;
+    }
+    .fa-user-profile {
+        padding-left:10px;
+        padding-top: 5px;
+        font-size: 40px;
+    }
+    .fa-user-profile-edit {
+        padding-left:10px;
+        padding-top: 5px;
+        font-size: 40px;
+    }
+    .home-container {
+        margin-left: auto;
+        margin-right: auto;
+        text-align: center;
+    }
+    .form-red {
+        font-size: 14px;
+    }
+    #km-tally h2 {
+        font-size: 40px;
+    }
+    #km-tally {
+        margin-top: 90px;
+    }
+    .insp-quote {
+        display: none;
+    }
+    .submit-signup {
+        margin-top: -20px;
+    }
+    .join-our-community-footer {
+        text-align: center;
+        margin-top: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+        letter-spacing: 0.6px;
+    }
+    .signup-newsletter-group{
+        padding-left: 30px;
+        padding-top: 20px;
+    }
+    .newsletter-icon{
+        float: none;
+        margin-right: 0px;
+        margin-bottom: 8px;
+        margin-top: 5px;
+    }
+    .user-heading-edit{
+        margin-top: -65px;
+        margin-left: 28px;
+        margin-bottom: 10px;
+    }
+    .create-account-group{
+        padding-left: 0px;
+    }
+    .recent {
+        text-align: center;
+        padding-top: 15px;
+        font-size: 35px;
+    }
+    .see-near-you{
+        text-align: center;
+        font-size: 20px;
+    }
+    .right-inner-addon{
+        text-align: center;
+        padding-left: 60px;
+        padding-right: 60px;
+    }
+    .right-inner-addon i{
+        margin-right: 60px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .click-profile{
+        margin-right: 60px;
+        font-size: 14px;
+    }
+    .form-red{
+        font-size: 18px;
+    }
+    .red-circle {
+        height: 210px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .circle-image {
+        height: 210px;
+        padding-right: 15px;
+        padding-top: 10px;
+    }
+    .btn-add-run{
+        margin-top: 0px;
+    }
+    #hours-since-joining h2{
+        margin-top: 30px;
+    }
+    #nice-profile{
+        font-size: 100px!important;
+    }
+    #runtime{
+        width: 150px;
+        margin-left: 10px;
+    }
+    .profile-picture-image {
+        border: 20px solid #CB2F2E;
+        margin-right:;
+        overflow: hidden;
+        object-fit: cover;
+    }
+    .centered-box-profile {
+        position: absolute;
+        top: 43%;
+        left:60%;
+        height: 70px;
+    }
+    .centered-header-profile {
+        font-size: 40px;
+        top: 42%;
+        left: 43%;
+        transform: translate(-30%, -46%);
+    }
+    .centered-box-edit-profile {
+        left: 28%;
+        transform: translate(-47%, 85%);
+        height: 100px;
+        width: 350px;
+    }
+    .centered-header-editprofile {
+        font-size: 70px;
+        top: 44%;
+        left: 20%;
+        transform: translate(-26%, 119%);
+    }
+    .edit-profile-image{
+        margin-top: 279px;
+        margin-left: 350px;
+    }
+    .btn-edit {
+        margin-top: -40px;
+        margin-right: 0px;
+    }
+}
+
+@media (max-width: 764px) {
+    #runtime{
+        width: 600px;
+    }
+    .since-joining-runlog{
+        font-size: 25px!important;
+    }
+@media (max-width: 740px) {
+    .run-profile-post-stats{
+        margin-left: 40px;
+        font-size: 14px;
+    }
+    .run-post-date{
+        font-size: 14px;
+        padding-right: 30px;
+    }
+}
+
+@media (max-width: 700px) {
+    .red-circle {
+        height: 180px;
+    }
+    .circle-image {
+        height: 180px;
+    }
+    .centered-box-edit-profile {
+        left: 28%;
+        transform: translate(-47%, 85%);
+        height: 100px;
+        width: 350px;
+    }
+    .centered-header-editprofile {
+        left: 20%;
+        transform: translate(-53%, 119%);
+    }
+}
+
+@media (max-width: 620px) {
+    .centered-header-editprofile {
+        font-size: 50px;
+        left: 20%;
+        transform: translate(-60%, 180%);
+    }
+    #profile-picture-edit-image {
+        width: 270px;
+    }
+    .red-circle {
+        height: 140px;
+    }
+    .since-joining-runlog{
+        font-size: 20px!important;
+    }
+    .circle-image {
+        height: 140px;
+    }
+    #nice-profile{
+        font-size: 80px!important;
+    }
+
+@media (max-width: 630px) {
+    .social-network-runners {
+    font-size: 20px;
+    margin-right: 0px;
+    margin-top: 100px;
+    }
+}
+
+
+@media (max-width: 605px) {
+    .create-account-group{
+        padding-left: 30px;
+    }
+    .centered-box-feed {
+    height: 80px;
+    width: 380px;
+    }
+}
+
+@media (max-width: 575px) {
+    .red-circle {
+        height: 250px;
+    }
+    .circle-image {
+        height: 250px;
+    }
+    #add-run-panel{
+        padding-left: 40px;
+        padding-right: 40px;
+        padding-top: 10px;
+    }
+    .since-joining-runlog{
+        font-size: 40px!important;
+    }
+    .btn-logout-profile {
+        margin-left: 360px;
+        margin-top: 20px;
+        padding-left: 8px;
+        padding-right: 8px;
+        font-size: 14px;
+    }
+    .run-profile-post-stats{
+        margin-left: 30px;
+        font-size: 14px;
+    }
+    .run-post-date{
+        font-size: 14px;
+    }
+    .profile-picture-image {
+        width: 200px;
+        height: 200px;
+        margin-top: 10px;
+        margin-right: 30px;
+    }
+    .centered-box-profile {
+        position: absolute;
+        transform: translate(-113%, 100%);
+        height: 70px;
+        width: 253px;
+    }
+    .centered-header-profile {
+        font-size: 40px;
+        transform: translate(-91%, 165%);
+    }
+    .fa-user-profile {
+        padding-left:10px;
+        padding-top: 5px;
+        margin-top: 40px;
+        font-size: 40px;
+    }
+    .user-heading-profile{
+        padding-left: 80px;
+        margin-top: -65px;
+    }
+    .user-heading-edit{
+        padding-left: 80px;
+        margin-top: -65px;
+    }
+    #recent-runs {
+    margin-top: 30px;
+    margin-left: 0px;
+    }
+}
+
+@media (max-width: 550px) {
+    .btn-logout-profile {
+        margin-left: 320px;
+    }
+    #why-pacer-edit{
+        padding-left: 10px;
+        padding-right: 10px;
+        margin-top: 20px;
+        text-align:center;
+    }
+    .join-our-community-edit{
+        text-align: center;
+        margin-top: 20px;
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+}
+
+@media (max-width: 520px) {
+    .centered-box-feed {
+        height: 70px;
+        width: 310px;
+    }
+    .btn-pacer{
+        margin-top: 20px;
+    }
+    .btn-edit{
+        margin-top: 0px;
+    }
+    .centered-header-feed {
+        font-size: 45px;
+    }
+    .centered-box-profile {
+        position: absolute;
+        transform: translate(-113%, 100%);
+        height: 70px;
+        width: 253px;
+    }
+    .centered-header-profile {
+        font-size: 40px;
+        transform: translate(-91%, 165%);
+    }
+    .btn-logout-profile {
+        margin-left: 280px;
+    }
+}
+
+@media (max-width: 520px) {
+    .edit-profile-image{
+        margin-top: 279px;
+        margin-left: 300px;
+        }
+    }
+
+@media (max-width: 470px) {
+    .centered-box-profile {
+        transform: translate(-116%, 133%);
+        height: 70px;
+        width: 200px;
+    }
+    .centered-header-profile {
+        font-size: 40px;
+        transform: translate(-105%, 215%);
+    }
+    .btn-logout-profile {
+        margin-left: 230px;
+    }
+}
+
+@media (max-width: 430px) {
+    .centered-header-signup {
+        font-size: 50px;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .centered-box-signup {
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        height: 100px;
+        width: 300px;
+    }
+    #why-pacer-signup{
+        padding-left: 20px;
+        padding-right: 20px;
+        margin-top: 20px;
+        padding-top: 0px;
+        text-align: center;
+    }
+    .join-our-community {
+        font-size: 40px;
+        text-align: center;
+    }
+    .centered-header {
+        font-size: 40px;
+    }
+    .centered-box {
+        height: 70px;
+        width: 320px;
+    }
+    .connect-header {
+        font-size: 50px;
+    }
+    .centered-box-signup {
+        width: 240px;
+        height: 80px;
+    }
+    .centered-header-signup {
+        font-size: 42px;
+    }
+    .centered-header-feed {
+        font-size: 45px;
+        letter-spacing:1px;
+    }
+    #since-joining {
+        max-width: 120px;
+    }
+    #this-month{
+        max-width: 120px;
+    }
+    .submit-signup{
+        margin-top: 1px;
+        text-align: center;
+        margin-bottom: 5px;
+    }
+    #runners-support{
+        height: 250px;
+    }
+    .centered-box-support {
+        width: 250px;
+        height: 80px;
+    }
+    .btn-logout-profile {
+        margin-left: 210px;
+    }
+    #profile-picture-edit-image {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+        margin-right: 10px;
+    }
+    .edit-profile-image{
+        color: white;
+        font-size: 12px!important;
+        letter-spacing: 0.8px;
+        margin-top: 220px;
+        margin-left: 240px;
+        }
+}
+@media (max-width: 400px) {
+    .centered-box-feed {
+        height: 70px;
+        width: 250px;
+    }
+    .centered-header-feed {
+        font-size: 45px;
+    }
+    .right-inner-addon{
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+    .right-inner-addon i {
+        margin-right: 20px;
+        padding: 9px 20px;
+    }
+    .click-profile{
+        text-align: center;
+        margin-right: 15px;
+    }
+    .red-circle{
+        padding-right: 0px;
+        width: 250px;
+        height: 250px;
+        margin-top: 30px;
+    }
+    .circle-image{
+        width: 250px;
+        height: 250px;
+    }
+    #km-tally h2{
+        font-size: 35px;
+    }
+    #runtime{
+        width: 210px;
+        margin-left: 0px;
+    }
+    #hours-since-joining h2{
+        font-size: 25px;
+    }
+    #add-run-panel{
+        padding-bottom: 30px;
+    }
+    #add-run-container{
+    margin-top: 10px;
+    }
+    #nice-profile{
+        font-size: 60px!important;
+    }
+    .centered-box-profile {
+        transform: translate(-100%, 133%);
+        height: 70px;
+        width: 200px;
+    }
+    .centered-header-profile {
+        font-size: 30px;
+        transform: translate(-112%, 309%);
+    }
+    .profile-picture-image {
+    border-radius: 50%;
+    width: 210px;
+    height: 210px;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    }
+    .run-post-date {
+        font-size: 14px;
+    }
+    .run-profile-post-stats{
+        font-size: 12px;
+    }
+    .btn-logout-profile {
+        margin-left: 200px;
+    }
+}
+@media (max-width: 375px) {
+    .btn-logout-profile {
+        margin-left: 180px;
+    }
+    .centered-header-feed {
+        font-size: 40px;
+    }
+    #km-tally h2{
+        font-size: 25px;
+    }
+    #km-tally {
+    margin-top: 60px;
+    }
+    #profile-picture-edit-image {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+    }
+}
+@media (max-width: 365px) {
+    .btn-logout-profile {
+        margin-left: 130px;
+        margin-top: -20px;
+    }
+    .since-joining-runlog {
+        font-size: 30px!important;
+    }
+    #profile-picture-edit-image {
+        width: 210px;
+        height: 210px;
+        border-radius: 50%;
+    }
+    .profile-picture-image {
+        border-radius: 50%;
+        width: 180px;
+        height: 180px;
+        margin-top: 10px;
+        margin-right: 0px;
+        margin-bottom: 0px;
+    }
+    .centered-header-feed {
+        font-size: 35px;
+    }
+}
